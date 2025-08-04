@@ -1,1 +1,4 @@
-
+  $ mkdir ex00
+  $ mkdir z
+  $ echo Z>z
+  $ cat z
