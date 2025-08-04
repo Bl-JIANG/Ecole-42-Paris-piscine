@@ -1,1 +1,4 @@
-
+$ mkdir testShell00
+$ touch testShell00
+$ cd testShell00
+~/testShell00$ ls -l
