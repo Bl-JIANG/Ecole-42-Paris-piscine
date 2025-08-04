@@ -1,8 +1,0 @@
-Exercice 00 : Z
-  
-  $ mkdir ex00
-  $ mkdir z
-  $ echo Z>z
-  $ cat z
-
-
