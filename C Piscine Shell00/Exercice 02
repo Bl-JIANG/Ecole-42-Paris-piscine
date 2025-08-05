@@ -1,3 +1,4 @@
 $mkdir ex02
 $touch test{0..6} // Génération de fichiers par lots
-$
+$ln -s home/ex02/test6 test0
+$tar -cf ex02.tar
