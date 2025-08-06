@@ -1,2 +1,6 @@
-$ssh-keygen -t rsa -P ''
+$ssh-keygen -t rsa          /* Après avoir saisi la commande, le terminal affichera « Génération d'une paire de clés RSA publique/privée », 
+                              puis continuez à appuyer sur « Entrée » jusqu'à la fin. */
+
+$cat ~/ssh/id_ras.pub       /* Vérifiez la création de la clé dans le fichier id_ras.pub */
+
 $
