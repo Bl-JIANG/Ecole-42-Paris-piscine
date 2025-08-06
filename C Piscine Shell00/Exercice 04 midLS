@@ -1,1 +1,6 @@
-
+$cd midSL
+$ls -l 
+$grep -v "^\."      /* utiliser la commande « grep -v » comme recherche inverse , 
+                      ^ est utilisé dans la partie la plus à gauche du command, 
+                      par exemple « ^\ ». qui recherche les mots commençant par « . » , 
+                      «\» sont des caractères d'échappement qui convertissent les variables après \ en caractères simples.
