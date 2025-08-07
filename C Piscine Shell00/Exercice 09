@@ -1,1 +1,5 @@
+$touch fit_magic
+$nano fit_magic
+$42 string 42  @42
+$file -m fit_magic <your-file>
 
